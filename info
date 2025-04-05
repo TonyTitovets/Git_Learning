@@ -16,3 +16,8 @@ git log
 7. Переключение на ветку
 git checkout brench_name
 git checkout -b brench_name (создать ветку если ее нету)
+8. Обновляет код с удаленного репозитория
+git puul
+9. Временное хранилище для полезного кода(полпожить)
+git stash
+git stash aply (забрать из стэша)
