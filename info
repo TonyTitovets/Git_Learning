@@ -4,4 +4,15 @@ git clone [link]
 - add
 - commit
 - push
-3.
+3. Команда Гиту отслеживать изменения в текущей дериктории
+-git init
+4. Статус файлов в гите
+git status
+5. Начать отслеживать изменения файла
+git add filename
+git add . (сразу все файлы)
+6. История всех коммитов
+git log
+7. Переключение на ветку
+git checkout brench_name
+git checkout -b brench_name (создать ветку если ее нету)
