@@ -4,7 +4,7 @@ class Calculator:
     def sum (self, n1, n2):
         self.last_res = n1 + n2
         return n1 + n2
-
+# 1. Разработчику 1 _реализовать функцию умножение
     def multiply (self, n1, n2):
         self.last_res = n1 * n2
         return n1 * n2
